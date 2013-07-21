@@ -12,7 +12,7 @@ This is an example of touch gestures and animations on React by building a Faceb
 
 ## Getting started
 
-  * [Live demo](http://rawgithub.com/petehunt/react-animations/master/index.html)
+  * [Live demo](http://rawgithub.com/petehunt/react-animations/example/leftnav.html)
   * Start hacking by reading `src/example.js`
 
 ## Gotchas
